@@ -1,0 +1,9 @@
+streamlit>=1.31
+fastapi>=0.110
+uvicorn>=0.27
+python-multipart>=0.0.9
+pillow>=10.0
+pandas>=2.0
+pytesseract>=0.3.10
+anthropic>=0.39
+pytest>=8.0
